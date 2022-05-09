@@ -25,4 +25,4 @@ Answer - Sure, here it is **https://guessing-number-game-alex1234.netlify.app/**
 
 ## 🚀 End
 
-Hope this project helps you to learn something new. :D
+Hope this project helps you to learn something new. :P
