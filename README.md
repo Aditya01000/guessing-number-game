@@ -19,9 +19,10 @@ Answer - You can contact me on discord, my discord username is **Alexander12342#
 
 Answer - Sure, here it is **https://guessing-number-game-alex1234.netlify.app/**
 
-7. ## Authors
+## Authors
 
 - [@Aditya0100 aka Aditya Sharma](https://github.com/Aditya0100)
 
-8. ## 🚀 End
-   Hope this project helps you to learn something new. :D
+## 🚀 End
+
+Hope this project helps you to learn something new. :D
