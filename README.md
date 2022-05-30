@@ -13,7 +13,7 @@ This was my first project where i made game using JS! This game was developed ba
 
 #### Question 1 - What if I have any doubt or feedback regarding your project?
 
-Answer - You can contact me on discord, my discord username is **Alexander12342#2953**
+Answer - You can contact me on discord, my discord username is **Alexander0100#3083**
 
 #### Question 2 - Can you provide a link of your project through any hosting websites?
 
