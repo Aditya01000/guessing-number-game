@@ -21,7 +21,7 @@ Answer - Sure, here it is **https://guessing-number-game-alex1234.netlify.app/**
 
 ## Authors
 
-- [@Alexander01000 aka Aditya Sharma](https://github.com/Alexander01000)
+- [@Alexander01000 aka Alex](https://github.com/Alexander01000)
 
 ## 🚀 End
 
